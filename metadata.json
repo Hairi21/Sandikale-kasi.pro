@@ -1,0 +1,8 @@
+{
+  "name": "SANDIKALE-kasir",
+  "description": "Sistem kasir profesional terintegrasi dengan manajemen shift kasir (X/Z Report), barcode scanner, dual display pelanggan, hold \u0026 recall bills, diskon \u0026 pajak, cetak thermal ESC/POS, dan laporan keuangan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
